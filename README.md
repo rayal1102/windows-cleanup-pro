@@ -18,12 +18,12 @@ Tool tự động dọn dẹp và tối ưu hóa Windows, giải phóng 40-120GB
 1. Mở **PowerShell** với quyền **Administrator**
 2. Chạy lệnh:
 ```powershell
-irm https://raw.githubusercontent.com/YOUR_USERNAME/windows-cleanup-pro/main/DonDepOC_2025_Pro_Optimized.ps1 | iex
+irm  https://raw.githubusercontent.com/rayal1102/windows-cleanup-pro/refs/heads/main/cleanup_script_optimized.ps1 | iex
 ```
 
 ### Cách 2: Download Về Máy
 ```powershell
-irm https://raw.githubusercontent.com/YOUR_USERNAME/windows-cleanup-pro/main/DonDepOC_2025_Pro_Optimized.ps1 -OutFile cleanup.ps1
+irm https://raw.githubusercontent.com/rayal1102/windows-cleanup-pro/refs/heads/main/cleanup_script_optimized.ps1
 ```
 
 Sau đó nhấp chuột phải vào file `cleanup.ps1` → **Run with PowerShell** (as Admin)
